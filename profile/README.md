@@ -1,1 +1,1 @@
-paw patrol - wildlife monitoring and anti-poaching system
+*Paw Patrol* is a compact and intelligent real-time environmental monitoring system built using ESP32 microcontrollers and an array of sensors. It detects and evaluates potential intrusions or anomalies by fusing motion, sound, gas, distance, and visual inputs. These events are analyzed locally and relayed to a central server for deeper inspection and alerting. The system is ideal for wildlife monitoring, perimeter security, and smart environmental sensing in isolated regions.
